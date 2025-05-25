@@ -1,0 +1,329 @@
+/*.tutorials.root {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #e4fcff;
+}*/
+/*.tutorials .content_box {
+  position: absolute;
+  top: 35px;
+  left: 0px;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  width: 390px;
+  height: 56px;
+  background-color: #0066ef;
+}
+@media (min-width: 480px) and (max-width: 991px) {
+  .tutorials .content_box {
+    width: 100%;
+  }
+}
+.tutorials .image {
+  position: absolute;
+  top: 2px;
+  left: 4px;
+  width: 214px;
+  height: 50px;
+}
+.tutorials .medium_title {
+  position: absolute;
+  top: 3px;
+  right: 3px;
+  display: flex;
+  justify-content: center;
+  width: 131px;
+  height: 50px;
+  font: 400 24px/1.2 "Inter", Helvetica, Arial, serif;
+  color: #396646;
+  text-align: center;
+  background-color: #bdd6f8;
+  border-radius: 10px 10px 10px 10px;
+  padding: 11px 30.5px 10px 30.5px;
+}
+.tutorials .rect2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 42px;
+  background-color: #0066ef;
+}
+@media (min-width: 480px) and (max-width: 991px) {
+  .tutorials .rect2 {
+    width: 100%;
+  }
+}
+.tutorials .box {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  display: flex;
+  flex-direction: column;
+  width: 390px;
+  height: 56px;
+  background-color: #1c3723;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.247));
+}
+@media (min-width: 480px) and (max-width: 991px) {
+  .tutorials .box {
+    width: 100%;
+  }
+}
+
+.tutorials .highlight {
+  margin: 17px 0px 17px 19px;
+  width: 80.26%;
+  font: 400 18px/1.22 "Inter", Helvetica, Arial, serif;
+  color: white;
+  letter-spacing: -0.1px;
+}*/
+.tutorials .flex_col {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 77px 24px 72px 23px;
+}
+.tutorials .big_title {
+  font: 700 36px/1.3 "Roboto Mono", Helvetica, Arial, serif;
+  color: #396646;
+}
+.tutorials .highlight1 {
+  margin: 12px 0px 0px;
+  width: 100%;
+  font: 700 16px/1.18 "Inter", Helvetica, Arial, serif;
+  color: #396646;
+  background-color: #bdd6f8;
+  border-radius: 5px 5px 5px 5px;
+  padding: 6px 20px 6px 20px;
+}
+.tutorials .flex_col1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px 0px;
+  margin: 36px 0px 0px;
+  width: 100%;
+}
+.tutorials .text {
+  width: 96.5%;
+  font: 400 14px/1.21 "Inter", Helvetica, Arial, serif;
+  color: #396646;
+}
+/*.tutorials .flex_col2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 9px 0px;
+  width: 100%;
+}*/
+.tutorials .content_box1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 85px;
+  background-color: #bdd6f8;
+  border-radius: 5px 5px 5px 5px;
+}
+/*.tutorials .flex_col3 {
+  position: absolute;
+  top: 7px;
+  left: 11px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 231px;
+  height: 67px;
+}*/
+.tutorials .medium_title1 {
+  width: 100%;
+  font: 700 24px/1.2 "Inter", Helvetica, Arial, serif;
+  color: #396646;
+}
+.tutorials .text1 {
+  font: 400 14px/1.21 "Inter", Helvetica, Arial, serif;
+  color: #396646;
+}
+.tutorials .text1_span0 {
+  font: 1em/1.21 "Inter", Helvetica, Arial, serif;
+}
+.tutorials .text1_span1 {
+  font: 700 1em/1.21 "Inter", Helvetica, Arial, serif;
+}
+.tutorials .text1_span2 {
+  font: 1em/1.21 "Inter", Helvetica, Arial, serif;
+}
+.tutorials .text2 {
+  margin: 4px 0px 0px;
+  width: 97.4%;
+  font: 400 14px/1.21 "Inter", Helvetica, Arial, serif;
+  color: #396646;
+}
+/*.tutorials .rect7 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 85px;
+  height: 85px;
+  background-color: #d9d9d9;
+  border-radius: 5px 5px 5px 5px;
+}*/
+.tutorials .image1 {
+  position: static;
+  margin-right: auto;
+  margin-left: auto;
+  width: 80%;
+  margin-top: 30px;
+
+}
+@media (min-width: 480px) and (max-width: 991px) {
+  /*.tutorials .image1 {
+    right: 52.09%;
+    left: 25.34%;
+  }*/
+}
+
+.hexagons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 0px;
+
+  margin-right: auto;
+  margin-left: auto;
+
+  width: 80%; /* make bigger for smaller screens (100% for the smallest)*/
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+@media (min-width: 600px) and (max-width: 670px) {
+  .hexagons {
+    width: 90%;
+  }
+}
+@media (min-width: 470px) and (max-width: 599px) {
+  .hexagons {
+    width: 100%;
+  }
+}
+
+
+.hexagons div {
+  width: 100px;
+  height: 100px;
+}
+
+.tuthex {
+  position: absolute;
+  width: 100px; /* if not centered sa small screens, make the hex size smaller */
+  
+}
+
+.hexblocker {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  margin-top: -100px;
+  display: none;
+  z-index: 2;
+}
+
+.hexdescriptor {
+  position: static;
+  color: #396646;
+  text-align: center;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 12.5px;
+
+  display: none;
+}
+
+.revealhex {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-color: #0066ef; /* 0051be */
+  border-radius: 10px;
+  color: #ffffff;
+  right: 10px;
+  top: 100px;
+  vertical-align: middle;
+  text-align: center;
+  vertical-align: middle;
+  font-weight: bolder;
+  font-size: x-large;
+  z-index: 4;
+
+  transition-duration: 0.25s;
+	transition-timing-function: ease-in-out;
+}
+
+.revealhex:hover {
+  background-color: #0051be;
+}
+
+.revealhex:active {
+  background-color: #348cff;
+}
+
+.revealhex div {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+form {
+  position: static;
+  border: 0px;
+  border-radius: 20px;
+  margin: 10px;
+  background-color: #bdd6f8;
+}
+
+.class {
+  margin: 10px;
+}
+
+.search {
+  vertical-align: middle;
+}
+
+.search label {
+  font-size: larger;
+}
+
+#search, #search_categ {
+  font-size: larger;
+  border: 2.5px solid #396646;
+  border-radius: 15px;
+  font-family: inherit;
+  padding: 0px 10px;
+}
+
+#search {
+  width: 95%;
+}
+
+#sorting_categ, #sorting_order {
+  border: 2.5px solid #396646;
+  border-radius: 12px;
+  font-family: inherit;
+  padding: 0px 5px;
+}
+
+#searchimg {
+  height: 30px;
+}
+
+#searchimg img {
+  width: 30px;
+  height: 30px;
+}
+
+.centered {
+  margin-left: auto;
+  margin-right: auto;
+}

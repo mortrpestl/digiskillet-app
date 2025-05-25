@@ -1,0 +1,44 @@
+.tutorialpage .tutcolumn {
+    position: static;
+    display: flex;
+    flex-direction: column;
+
+    color: #1c3723;
+    margin-top: 110px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+
+    gap: 10px;
+
+    margin-bottom: 60px;
+}
+
+.tutorialpage .title {
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.tutorialpage .inforow {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    font-size: larger;
+
+    margin-bottom: 10px;
+}
+
+.tutorialpage .bold {
+    font-weight: bold;
+}
+
+.tutorialpage hr {
+    height: 3px;
+    background-color: #b4e1e9;
+}
+
+#video_embed {
+    width: 95vw;
+    height: 53.4375vw;
+    margin-bottom: 80px;
+}
