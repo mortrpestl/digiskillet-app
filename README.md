@@ -26,6 +26,15 @@ Here is a sample of a YouTube tutorial:
 
 # App Screenshots
 
+<p float="center">
+  <img src="https://raw.githubusercontent.com/mortrpestl/digiskillet-app/main/app-screenshots/30.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/mortrpestl/digiskillet-app/main/app-screenshots/31.png" width="45%" />
+</p>
+
+<p float="center">
+  <img src="https://raw.githubusercontent.com/mortrpestl/digiskillet-app/main/app-screenshots/32.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/mortrpestl/digiskillet-app/main/app-screenshots/33.png" width="45%" />
+</p>
 
 # Software Used
 - [HTML (HyperText Markup Language)](https://developer.mozilla.org/en-US/docs/Web/HTML)
