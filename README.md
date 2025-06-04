@@ -1,6 +1,13 @@
-# digital-skills-app
-This will serve as *Digital Skill Issue* or R2-J2-03's repository for their research project titled: Development of a Crowdsourced Mobile-Friendly Web Application for Tutorials on Digital Skills and Digital Literacy
+# A Digital Skills App for All Ages
 
-## Note when editing Stylesheet Files
+# About DigiSkillet
 
-When editing the stylesheet files, only edit the "styles.scss" file and **not** the "styles.css" file. This is because changes made in the former are automatically reflected in the latter, whereas changes made in the latter are not reflected to the former.
+# Software Used
+- [HTML (HyperText Markup Language)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [SCSS (Sassy Cascading Style Sheets)](https://sass-lang.com/)
+- [TS (TypeScript)](https://www.typescriptlang.org/)
+- [JS (JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Ajax (Asynchronous JavaScript and XML)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+- [XAMPP (Cross-Platform, Apache, MariaDB, PHP, and Perl)](https://www.apachefriends.org/index.html)
+- [PHP (Hypertext Preprocessor)](https://www.php.net/)
+
