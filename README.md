@@ -1,5 +1,8 @@
 # DigiSkillet - A Digital Skills App for All Ages
 
+- made with various web development paradigms
+- priorly hosted at [digiskillet.com](url) during implementation phase
+
 # About DigiSkillet
 The Filipino people are constantly behind their Southeast-Asian peers with digital skills and literacy: we always rank at the bottom not just in Southeast Asia, but in the world when it comes to handling digital technology and being equipped with digital awareness. 
 
@@ -54,4 +57,5 @@ Here is a sample of a YouTube tutorial:
 - [XAMPP (Cross-Platform, Apache, MariaDB, PHP, and Perl)](https://www.apachefriends.org/index.html)
 - [PHP (Hypertext Preprocessor)](https://www.php.net/)
 - [PHPMyAdmin](https://www.phpmyadmin.net/)
+- [Figma](https://www.figma.com/)
 
