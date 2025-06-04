@@ -7,14 +7,15 @@ DigiSkillet aims to help change this problem by delivering easy-to-understand an
 
 Our application will display tutorials made either by the developers or contributors of the research to you. We have tweaked the elements of the application such as the buttons and pages to ensure a smooth and effective experience on your side. However, we still appreciate any feedback if you spot inconveniences while navigating the app.
 
-# The Creators
-Justin Camacho, Skye Del Rosario, and Diogn Mortera are the members of the research group working together to bring a complete DigiSkillet to you. 
+# The Developers
 
-Justin Camacho is the member responsible for handling communications between parties to make sure that DigiSkillet is properly tested before being published to the public.
+- **Diogn Mortera** - back-end, web deployment, navigational design, graphics, tutorials, questionnaires
 
-Skye Del Rosario handles the front-end portion of the project by managing the overall look and feel of DigiSkillet: the visual traits of the application can be attributed to his work.
+- **Skye Del Rosario** - front-end, navigational design, graphics, questionnaires
 
-Lastly, Diogn Mortera (me) is responsible for tweaking the visual elements created by Skye Del Rosario so that they display the correct information and data. He also handles the storage of information posted to DigiSkillet by working with a database.
+- **Justin Camacho** - implementation, externals, content, questionnaires
+  
+All members contributed about equally to the project.
 
 # Example Tutorials
 
@@ -28,19 +29,19 @@ Here is a sample of a YouTube tutorial:
 
 <p float="center">
   <a href="https://github.com/mortrpestl/digiskillet-app/blob/main/app-screenshots/30.png">
-    <img src="https://raw.githubusercontent.com/mortrpestl/digiskillet-app/main/app-screenshots/30.png" width="45%" />
+    <img src="https://raw.githubusercontent.com/mortrpestl/digiskillet-app/main/app-screenshots/1.png" width="45%" />
   </a>
   <a href="https://github.com/mortrpestl/digiskillet-app/blob/main/app-screenshots/31.png">
-    <img src="https://raw.githubusercontent.com/mortrpestl/digiskillet-app/main/app-screenshots/31.png" width="45%" />
+    <img src="https://raw.githubusercontent.com/mortrpestl/digiskillet-app/main/app-screenshots/2.png" width="45%" />
   </a>
 </p>
 
 <p float="center">
   <a href="https://github.com/mortrpestl/digiskillet-app/blob/main/app-screenshots/32.png">
-    <img src="https://raw.githubusercontent.com/mortrpestl/digiskillet-app/main/app-screenshots/32.png" width="45%" />
+    <img src="https://raw.githubusercontent.com/mortrpestl/digiskillet-app/main/app-screenshots/3.png" width="45%" />
   </a>
   <a href="https://github.com/mortrpestl/digiskillet-app/blob/main/app-screenshots/33.png">
-    <img src="https://raw.githubusercontent.com/mortrpestl/digiskillet-app/main/app-screenshots/33.png" width="45%" />
+    <img src="https://raw.githubusercontent.com/mortrpestl/digiskillet-app/main/app-screenshots/4.png" width="45%" />
   </a>
 </p>
 
