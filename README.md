@@ -1,4 +1,4 @@
-# DigiSkillet - A Digital Skills App for All Ages
+# DigiSkillet - A Digital Skills App for Filipino Citizens of All Ages
 
 - made with various web development paradigms
 - priorly hosted at [digiskillet.com](url) during implementation phase
